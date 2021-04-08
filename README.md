@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anishmathew713
-- 👀 I’m interested in contiuing to grow my coding skills
+- 👀 I’m interested in continuing to grow my coding skills
 - 📫 You can reach me via email at mathew.anishk@gmail.com
 
 <!---
